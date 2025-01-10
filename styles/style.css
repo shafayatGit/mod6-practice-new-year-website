@@ -28,8 +28,6 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: rgb(7, 2, 17)
-    rgba(7, 2, 17, 0)
 
 }
 
@@ -89,7 +87,8 @@ margin-bottom: 45px;
 
 .greetings{
     background-image: url("../images/Vectorrr.png");
-    
+    width: 1320px;
+    height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
     margin: 140px 120px;
